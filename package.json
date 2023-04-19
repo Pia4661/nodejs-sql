@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nuwan94/nodejs-sql-boilerplate.git"
+        "url": "git+https://github.com/Pia4661/nodejs-sql-boilerplate.git"
     },
     "keywords": [
         "nodejs",
@@ -18,12 +18,12 @@
         "azure-mysql",
         "azure"
     ],
-    "author": "nuwan94",
+    "author": "Pia4661",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nuwan94/nodejs-sql-boilerplate/issues"
+        "url": "https://github.com/Pia4661/nodejs-sql-boilerplate/issues"
     },
-    "homepage": "https://github.com/nuwan94/nodejs-sql-boilerplate#readme",
+    "homepage": "https://github.com/Pia4661/nodejs-sql-boilerplate#readme",
     "dependencies": {
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
